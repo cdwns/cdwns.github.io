@@ -6,7 +6,7 @@
         day = hour * 24,
 				week = day * 7;
 
-  let summer = "Jun 1, 2023 00:00:00",
+  let summer = "Jun 1, 2024 00:00:00",
       countDown = new Date(summer).getTime(),
       x = setInterval(function() {    
 
